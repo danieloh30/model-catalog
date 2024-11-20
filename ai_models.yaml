@@ -27,7 +27,7 @@ spec:
     },
     "servers": [
       {
-        "url": "https://parasol-instruct-chatbot-app-ai.apps.cluster-8q5hb.zr65v.sandbox647.opentlc.com",
+        "url": "https://parasol-instruct-chatbot-app-ai.apps.cluster-xx57k.xx57k.sandbox2601.opentlc.com",
         "description": "vLLM endpoint"
       }
     ],
